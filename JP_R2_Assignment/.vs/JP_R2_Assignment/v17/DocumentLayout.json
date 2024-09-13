@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\linkedlisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\linkedlisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\dictionarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\dictionarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\interfaces\\ideepcomparatorstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\interfaces\\ideepcomparatorstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\customcomparators\\integercomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\customcomparators\\integercomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\comparators\\stackcomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\comparators\\stackcomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\comparators\\queuecomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\comparators\\queuecomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\comparators\\objectcomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\comparators\\objectcomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\comparators\\keyvaluepaircomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\comparators\\keyvaluepaircomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\comparators\\genericequalitycomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\comparators\\genericequalitycomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\comparators\\enumerablecomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\comparators\\enumerablecomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\deepcomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\deepcomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\queuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\queuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\stacktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\stacktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\models\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\models\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\models\\simplestruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\models\\simplestruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\models\\complexstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\models\\complexstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\models\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\models\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\arraytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\arraytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\hashsettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\hashsettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\enumtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\enumtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\decimaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\decimaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\classwithstructtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\classwithstructtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\classtypetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\classtypetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\arraylisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\arraylisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\structtypetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\structtypetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\stringtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\stringtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\primitivetypestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\primitivetypestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\nullabetypestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\nullabetypestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|c:\\dev\\mayhem\\jp_r2_assignment\\deepcomparison\\tests\\listtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE72B515-B3FB-4103-AB08-5642D8F7B223}|JP_R2_Assignment.csproj|solutionrelative:deepcomparison\\tests\\listtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntegerComparator.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\CustomComparators\\IntegerComparator.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\CustomComparators\\IntegerComparator.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\CustomComparators\\IntegerComparator.cs",
+              "RelativeToolTip": "DeepComparison\\CustomComparators\\IntegerComparator.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:51:28.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDeepComparatorStrategy.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Interfaces\\IDeepComparatorStrategy.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Interfaces\\IDeepComparatorStrategy.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Interfaces\\IDeepComparatorStrategy.cs",
+              "RelativeToolTip": "DeepComparison\\Interfaces\\IDeepComparatorStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:33:47.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:34:11.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DictionaryTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\DictionaryTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\DictionaryTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\DictionaryTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\DictionaryTests.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAA5wIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:42:20.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedListTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\LinkedListTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\LinkedListTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\LinkedListTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\LinkedListTests.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAUwL4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:47:13.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StackComparator.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Comparators\\StackComparator.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Comparators\\StackComparator.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Comparators\\StackComparator.cs",
+              "RelativeToolTip": "DeepComparison\\Comparators\\StackComparator.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:09:59.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QueueComparator.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Comparators\\QueueComparator.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Comparators\\QueueComparator.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Comparators\\QueueComparator.cs",
+              "RelativeToolTip": "DeepComparison\\Comparators\\QueueComparator.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:09:40.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObjectComparator.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Comparators\\ObjectComparator.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Comparators\\ObjectComparator.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Comparators\\ObjectComparator.cs",
+              "RelativeToolTip": "DeepComparison\\Comparators\\ObjectComparator.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:09:31.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KeyValuePairComparator.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Comparators\\KeyValuePairComparator.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Comparators\\KeyValuePairComparator.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Comparators\\KeyValuePairComparator.cs",
+              "RelativeToolTip": "DeepComparison\\Comparators\\KeyValuePairComparator.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:08:18.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericEqualityComparator.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Comparators\\GenericEqualityComparator.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Comparators\\GenericEqualityComparator.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Comparators\\GenericEqualityComparator.cs",
+              "RelativeToolTip": "DeepComparison\\Comparators\\GenericEqualityComparator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:05:58.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnumerableComparator.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Comparators\\EnumerableComparator.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Comparators\\EnumerableComparator.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Comparators\\EnumerableComparator.cs",
+              "RelativeToolTip": "DeepComparison\\Comparators\\EnumerableComparator.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:50:36.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\Models\\Person.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\Models\\Person.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:22:31.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StackTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\StackTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\StackTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\StackTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\StackTests.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAwGgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:16:36.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\Models\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\Models\\PhoneNumber.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\Models\\PhoneNumber.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\Models\\PhoneNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:36:05.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\Models\\Address.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\Models\\Address.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:22:21.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QueueTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\QueueTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\QueueTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\QueueTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\QueueTests.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:31:42.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeepComparator.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\DeepComparator.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\DeepComparator.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\DeepComparator.cs",
+              "RelativeToolTip": "DeepComparison\\DeepComparator.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAA1wHUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:33:53.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SimpleStruct.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\Models\\SimpleStruct.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\Models\\SimpleStruct.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\Models\\SimpleStruct.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\Models\\SimpleStruct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:55:22.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ComplexStruct.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\Models\\ComplexStruct.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\Models\\ComplexStruct.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\Models\\ComplexStruct.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\Models\\ComplexStruct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:55:50.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Colors.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\Models\\Colors.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\Models\\Colors.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\Models\\Colors.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\Models\\Colors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:54:50.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ArrayTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\ArrayTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\ArrayTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\ArrayTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\ArrayTests.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwBgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:30:53.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HashSetTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\HashSetTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\HashSetTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\HashSetTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\HashSetTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:46:22.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnumTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\EnumTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\EnumTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\EnumTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\EnumTests.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:45:05.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DecimalTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\DecimalTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\DecimalTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\DecimalTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\DecimalTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:41:59.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClassWithStructTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\ClassWithStructTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\ClassWithStructTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\ClassWithStructTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\ClassWithStructTests.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:41:39.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClassTypeTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\ClassTypeTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\ClassTypeTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\ClassTypeTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\ClassTypeTests.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwvwsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:35:38.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ArrayListTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\ArrayListTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\ArrayListTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\ArrayListTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\ArrayListTests.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAUwJ4AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:17:16.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StructTypeTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\StructTypeTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\StructTypeTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\StructTypeTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\StructTypeTests.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:48:51.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StringTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\StringTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\StringTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\StringTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\StringTests.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:48:48.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PrimitiveTypesTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\PrimitiveTypesTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\PrimitiveTypesTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\PrimitiveTypesTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\PrimitiveTypesTests.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:48:44.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NullabeTypesTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\NullabeTypesTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\NullabeTypesTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\NullabeTypesTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\NullabeTypesTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:48:38.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ListTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\ListTests.cs",
+              "RelativeDocumentMoniker": "DeepComparison\\Tests\\ListTests.cs",
+              "ToolTip": "C:\\Dev\\Mayhem\\JP_R2_Assignment\\DeepComparison\\Tests\\ListTests.cs",
+              "RelativeToolTip": "DeepComparison\\Tests\\ListTests.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAQwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:48:00.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
